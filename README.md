@@ -1,6 +1,11 @@
 # GrowTeleBackup
 A Telegram bot to automate and manage backups efficiently. With KING of Backup Bot, you can manually create backups, schedule automatic backups, and manage your backup configurations seamlessly.
 
+
+##Showcase
+![image](https://github.com/user-attachments/assets/87d469c8-8ee7-48d3-9a3c-8b50a1e562bd)
+
+
 ## Features 🚀
 
 - **Manual Backup:** Trigger an instant backup with a simple command.
