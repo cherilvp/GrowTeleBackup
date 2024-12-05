@@ -4,7 +4,7 @@ const TelegramBot = require('node-telegram-bot-api');
 const schedule = require('node-schedule');
 const archiver = require('archiver');
 
-const token = '7636062224:AAEFRAYtee3BhaPuJ7jnJIQVb04WGhSLbRo';
+const token = 'AAEFRAYtee3BhaPuJ7jnJIQVb04WGhSLbRo';
 const bot = new TelegramBot(token, { polling: true });
 
 let backupDirectory;
